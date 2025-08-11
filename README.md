@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Corporate Agent - ADGM Compliance Reviewer
 
 A Streamlit-based application for automated compliance review of legal documents for ADGM (Abu Dhabi Global Market) regulatory requirements.
@@ -100,6 +100,9 @@ corporate-agent/
     ├── report_generator.py # Report generation
     └── reviewer.py      # AI-powered compliance review
 ```
+
+<img width="1919" height="1077" alt="Screenshot 2025-08-11 124559" src="https://github.com/user-attachments/assets/ed3b232a-ef2e-4866-b627-577f7dc26f8e" />
+
 
 ## Dependencies
 

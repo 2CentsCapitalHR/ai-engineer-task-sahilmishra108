@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Corporate Agent - ADGM Compliance Reviewer
 
 A Streamlit-based application for automated compliance review of legal documents for ADGM (Abu Dhabi Global Market) regulatory requirements.
@@ -146,3 +147,6 @@ This project is licensed under the MIT License.
 ## Support
 
 For support and questions, please open an issue in the repository.
+=======
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/vgbm4cZ0)
+>>>>>>> 73c6cd0c8cda3832a820bd3b44f6bc58a0db4ccd
